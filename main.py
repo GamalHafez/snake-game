@@ -1,8 +1,8 @@
 # The game loop
-from turtle import Screen
-from Snake import Snake
-from Food import Food
-from Score import Scoreboard
+from turtle import screen
+from snake import Snake
+from food import Food
+from score import Scoreboard
 import time
 
 window = Screen()
