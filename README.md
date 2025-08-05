@@ -3,10 +3,8 @@
 My first Python project — a classic Snake game built using OOP and Turtle graphics.
 You can move the snake using the arrow keys and eat red food to grow your snake.
 
-## How to Run
-
-1. Make sure you have Python installed.
-2. Run `main.py` from any Python IDE or terminal.
+## 🎮 Game Preview
+![Gameplay Preview](snake-game.gif)
 
 ## Files
 
@@ -28,7 +26,7 @@ You can move the snake using the arrow keys and eat red food to grow your snake.
 - Turtle Graphics
 - OOP principles
 
-## 🎮 Game Preview
-![Gameplay Preview](snake-game.gif)
+  ## How to Run
 
-Made by Gamal.
+1. Make sure you have Python installed.
+2. Run `main.py` from any Python IDE or terminal.
